@@ -40,7 +40,7 @@
                         <environment>${env}</environment>
                         <objectStoreV2>true</objectStoreV2>
                         <username>RamENIQUE9</username>
-                        <deploymentType>cloudhub</deploymentType>
+                        
                         <businessGroup>Enique</businessGroup>
                         <password>Ram@12348</password>
                     </cloudHubDeployment>
