@@ -39,10 +39,6 @@
                         <workerType>${workerType}</workerType>
                         <environment>${env}</environment>
                         <objectStoreV2>true</objectStoreV2>
-                        <username>RamENIQUE9</username>
-                        
-                        <businessGroup>Enique</businessGroup>
-                        <password>Ram@12348</password>
                     </cloudHubDeployment>
                 </configuration>
 			
